@@ -1,1 +1,3 @@
-# 2019_02_devops_aula01
+# aula 01 de devops
+ - Primeiro Commit
+  -exemplo de commit
